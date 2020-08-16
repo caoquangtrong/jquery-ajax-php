@@ -12,4 +12,4 @@
     <input type="text" id="number">
     <input type="button" id="clickme" value="click me">
 </body>
-</html>
+</html> 
